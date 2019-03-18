@@ -1,4 +1,4 @@
 # DQ_Projects
-DataQuest Guided Projects
+Mackie's DataQuest Guided Projects:
 
-Applied Data Science lessons from DataQuest.io to interesting datasets.
+Applied Data Science knowledge from DataQuest.io to interesting datasets.
