@@ -1,1 +1,1 @@
-Analyzed Star Wars survey data using Pandas techniques.  Explored movie rankings by gender and character likeability.
+Analyzed Star Wars survey data using Pandas techniques.  Listed movie rankings by gender and education.  Summarized character likeability.
